@@ -1,3 +1,6 @@
 <?php 
 echo "hi"
 ?>
+<?php 
+echo "ok"
+?>
