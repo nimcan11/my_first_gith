@@ -1,5 +1,5 @@
 <?php 
-echo "hi and hello"
+echo "hi and hellon"
 ?>
 <?php 
 echo "ok"
